@@ -440,6 +440,9 @@
                     "base": "c60_t0xdAC17F958D2ee523a2206206994597C13D831ec7"
                 },
                 {
+                    "base": "c60_t0x1a7e4e63778B4f12a199C062f3eFdD288afCBce8"
+                },
+                {
                     "base": "c60_t0xDDB3422497E61e13543BeA06989C0789117555c5"
                 },
                 {
@@ -2904,6 +2907,17 @@
             "symbol": "USDT",
             "decimals": 6,
             "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
+            "pairs": []
+        },
+        {
+            "chainId": 1,
+            "asset": "c60_t0x1a7e4e63778B4f12a199C062f3eFdD288afCBce8",
+            "type": "ERC20",
+            "address": "0x1a7e4e63778B4f12a199C062f3eFdD288afCBce8",
+            "name": "agEur",
+            "symbol": "agEUR",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/19479/standard/agEUR.png?1696518915",
             "pairs": []
         },
         {
